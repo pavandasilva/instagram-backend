@@ -1,8 +1,9 @@
 const sharp = require('sharp');
 const path = require('path');
 const fs = require('fs');
-const { serverAdress } = require('../config/adresses');
 const uuidv4 = require('uuid/v4');
+const { serverAdress } = require('../config/adresses');
+
 const defaultSize = 500;
 const defaultQuality = 70;
 

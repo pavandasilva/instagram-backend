@@ -1,6 +1,7 @@
 const Post = require('../models/Post');
 const { saveImageDefault, imageUrlGenerate } = require('../utils/imageUtil');
 const { eventEmit } = require('../utils/socketUtil');
+const logger  = require('../utils/loggerUtil');
 
 module.exports = {
     async get(req, res) {
@@ -11,20 +12,24 @@ module.exports = {
     async post(req, res) {
         const { author, place, description, hashtags } = req.body;
 
-        if (req.file) {
-            var image = await saveImageDefault(req.file);
-        }
+        try {
+            if (req.file) {
+                var image = await saveImageDefault(req.file);
+            }
 
-        const post = await Post.create({
-            author,
-            place,
-            description,
-            hashtags,
-            image: imageUrlGenerate(image) || null
-        });
-        
-        eventEmit('post', post);
-
-        return res.json(post);
+            const post = await Post.create({
+                author,
+                place,
+                description,
+                hashtags,
+                image: imageUrlGenerate(image) || null
+            });
+            
+            eventEmit('post', post);
+            return res.status(201).json(post);
+        } catch(error){
+            logger().error(error);
+            return res.status(500).json({error});
+        } 
     }
 }
