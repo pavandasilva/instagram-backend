@@ -1,0 +1,236 @@
+[2019-06-16T20:47:20.374Z] info mongo connected
+[2019-06-16T20:48:34.095Z] info mongo connected
+[2019-06-16T20:49:13.666Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T20:50:11.115Z] error undefined
+[2019-06-16T20:51:17.156Z] error undefined
+[2019-06-16T20:52:13.854Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T20:55:32.393Z] info listening port 3000
+[2019-06-16T20:55:32.405Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T20:56:20.025Z] info listening port 3000
+[2019-06-16T20:56:20.040Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T20:58:37.622Z] info listening port 3000
+[2019-06-16T20:58:37.634Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T20:59:46.269Z] info listening port 3000
+[2019-06-16T20:59:46.283Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T21:02:21.931Z] info listening port 3000
+[2019-06-16T21:02:21.946Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T21:02:36.867Z] info listening port 3000
+[2019-06-16T21:02:36.878Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T21:03:30.660Z] info listening port 3000
+[2019-06-16T21:03:30.681Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T21:03:40.362Z] info listening port 3000
+[2019-06-16T21:03:40.374Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T21:03:52.167Z] info listening port 3000
+[2019-06-16T21:03:52.180Z] error failed to connect to server [127.0.0.1:2701] on first connect [Error: connect ECONNREFUSED 127.0.0.1:2701
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1054:14) {
+  name: 'MongoNetworkError',
+  errorLabels: [Array],
+  [Symbol(mongoErrorContextSymbol)]: {}
+}]
+[2019-06-16T21:12:12.110Z] info mongo connected
+[2019-06-16T21:12:14.652Z] info mongo connected
+[2019-06-16T21:12:42.954Z] info mongo connected
+[2019-06-16T21:13:19.458Z] info mongo connected
+[2019-06-16T21:13:42.841Z] info listening port 3000
+[2019-06-16T21:13:42.861Z] info mongo connected
+[2019-06-16T21:14:02.783Z] info server listening port 3000
+[2019-06-16T21:14:02.799Z] info mongo connected
+[2019-06-16T21:14:34.058Z] info undefined
+[2019-06-16T21:14:34.082Z] info mongo connected
+[2019-06-16T21:14:45.803Z] info server listening port 3000
+[2019-06-16T21:14:45.818Z] info mongo connected
+[2019-06-16T21:16:22.276Z] info server listening port 3000
+[2019-06-16T21:16:22.292Z] info mongo connected
+[2019-06-16T21:16:48.133Z] info server listening port 3000
+[2019-06-16T21:16:48.152Z] info mongo connected
+[2019-06-16T21:17:09.876Z] info server listening port 3000
+[2019-06-16T21:17:09.891Z] info mongo connected
+[2019-06-16T21:18:26.326Z] info server listening port 3000
+[2019-06-16T21:18:26.343Z] info mongo connected
+[2019-06-16T21:18:27.532Z] info server listening port 3000
+[2019-06-16T21:18:27.551Z] info mongo connected
+[2019-06-16T21:18:51.046Z] info server listening port 3000
+[2019-06-16T21:18:51.065Z] info mongo connected
+[2019-06-16T21:26:23.275Z] info server listening port 3000
+[2019-06-16T21:26:23.297Z] info mongo connected
+[2019-06-16T21:26:27.338Z] error dest.on is not a function
+[2019-06-16T21:27:31.595Z] error dest.on is not a function
+[2019-06-16T21:28:20.033Z] info server listening port 3000
+[2019-06-16T21:28:20.053Z] info mongo connected
+[2019-06-16T21:31:16.634Z] info server listening port 3000
+[2019-06-16T21:31:16.651Z] info mongo connected
+[2019-06-16T21:31:35.089Z] info server listening port 3000
+[2019-06-16T21:31:35.107Z] info mongo connected
+[2019-06-16T21:33:33.270Z] error dest.on is not a function
+[2019-06-16T21:33:34.186Z] error dest.on is not a function
+[2019-06-16T21:33:34.770Z] error dest.on is not a function
+[2019-06-16T21:33:35.170Z] error dest.on is not a function
+[2019-06-16T21:33:35.619Z] error dest.on is not a function
+[2019-06-16T21:33:35.988Z] error dest.on is not a function
+[2019-06-16T21:33:36.784Z] error dest.on is not a function
+[2019-06-16T21:33:37.153Z] error dest.on is not a function
+[2019-06-16T21:33:37.477Z] error dest.on is not a function
+[2019-06-16T21:33:37.735Z] error dest.on is not a function
+[2019-06-16T21:39:40.651Z] info server listening port 3000
+[2019-06-16T21:39:40.674Z] info mongo connected
+[2019-06-16T21:39:51.570Z] error dest.on is not a function
+[2019-06-16T21:43:15.376Z] info server listening port 3000
+[2019-06-16T21:43:15.397Z] info mongo connected
+[2019-06-16T21:43:18.007Z] error Cannot access 'path' before initialization
+[2019-06-16T21:43:19.956Z] error Cannot access 'path' before initialization
+[2019-06-16T21:43:36.949Z] info server listening port 3000
+[2019-06-16T21:43:36.971Z] info mongo connected
+[2019-06-16T21:43:56.905Z] info server listening port 3000
+[2019-06-16T21:43:56.924Z] info mongo connected
+[2019-06-16T21:53:03.953Z] info server listening port 3000
+[2019-06-16T21:53:03.972Z] info mongo connected
+[2019-06-16T21:53:06.761Z] error Input file is missing
+[2019-06-16T21:53:35.280Z] info server listening port 3000
+[2019-06-16T21:53:35.299Z] info mongo connected
+[2019-06-16T21:53:53.670Z] info server listening port 3000
+[2019-06-16T21:53:53.691Z] info mongo connected
+[2019-06-16T21:54:07.311Z] info server listening port 3000
+[2019-06-16T21:54:07.328Z] info mongo connected
+[2019-06-16T21:54:25.429Z] info server listening port 3000
+[2019-06-16T21:54:25.450Z] info mongo connected
+[2019-06-16T21:55:03.302Z] info server listening port 3000
+[2019-06-16T21:55:03.324Z] info mongo connected
+[2019-06-16T21:55:53.854Z] info server listening port 3000
+[2019-06-16T21:55:53.880Z] info mongo connected
+[2019-06-16T21:56:27.215Z] info server listening port 3000
+[2019-06-16T21:56:27.233Z] info mongo connected
+[2019-06-16T21:58:49.745Z] info server listening port 3000
+[2019-06-16T21:58:49.763Z] info mongo connected
+[2019-06-16T21:58:50.732Z] info server listening port 3000
+[2019-06-16T21:58:50.752Z] info mongo connected
+[2019-06-16T21:59:26.783Z] info server listening port 3000
+[2019-06-16T21:59:26.801Z] info mongo connected
+[2019-06-16T21:59:42.299Z] info server listening port 3000
+[2019-06-16T21:59:42.336Z] info mongo connected
+[2019-06-16T21:59:56.137Z] info server listening port 3000
+[2019-06-16T21:59:56.160Z] info mongo connected
+[2019-06-16T22:00:12.235Z] info server listening port 3000
+[2019-06-16T22:00:12.255Z] info mongo connected
+[2019-06-16T22:00:19.662Z] info server listening port 3000
+[2019-06-16T22:00:19.681Z] info mongo connected
+[2019-06-16T22:00:50.359Z] info server listening port 3000
+[2019-06-16T22:00:50.379Z] info mongo connected
+[2019-06-16T22:04:22.569Z] info server listening port 3000
+[2019-06-16T22:04:22.588Z] info mongo connected
+[2019-06-16T22:05:19.197Z] error Expected positive integer for width but received NaN of type number
+[2019-06-16T22:13:27.511Z] info server listening port 3000
+[2019-06-16T22:13:27.535Z] info mongo connected
+[2019-06-16T22:17:33.763Z] info server listening port 3000
+[2019-06-16T22:17:33.781Z] info mongo connected
+[2019-06-16T22:17:36.116Z] info server listening port 3000
+[2019-06-16T22:17:36.134Z] info mongo connected
+[2019-06-16T22:17:40.950Z] info server listening port 3000
+[2019-06-16T22:17:40.971Z] info mongo connected
+[2019-06-16T22:18:00.790Z] info server listening port 3000
+[2019-06-16T22:18:00.810Z] info mongo connected
+[2019-06-16T22:19:35.720Z] info server listening port 3000
+[2019-06-16T22:19:35.738Z] info mongo connected
+[2019-06-16T22:19:50.238Z] info server listening port 3000
+[2019-06-16T22:19:50.258Z] info mongo connected
+[2019-06-16T22:20:00.056Z] info server listening port 3000
+[2019-06-16T22:20:00.074Z] info mongo connected
+[2019-06-16T22:20:12.289Z] info server listening port 3000
+[2019-06-16T22:20:12.309Z] info mongo connected
+[2019-06-16T22:20:22.622Z] info server listening port 3000
+[2019-06-16T22:20:22.641Z] info mongo connected
+[2019-06-16T22:20:30.402Z] info server listening port 3000
+[2019-06-16T22:20:30.422Z] info mongo connected
+[2019-06-16T22:20:50.300Z] info server listening port 3000
+[2019-06-16T22:20:50.317Z] info mongo connected
+[2019-06-16T22:20:57.870Z] info server listening port 3000
+[2019-06-16T22:20:57.891Z] info mongo connected
+[2019-06-16T22:21:14.438Z] error Invalid quality (integer, 1-100) 7.142857142857143
+[2019-06-16T22:22:14.889Z] info server listening port 3000
+[2019-06-16T22:22:14.908Z] info mongo connected
+[2019-06-16T22:33:58.416Z] info server listening port 3000
+[2019-06-16T22:33:58.436Z] info mongo connected
+[2019-06-16T22:34:50.677Z] info server listening port 3000
+[2019-06-16T22:34:50.700Z] info mongo connected
+[2019-06-16T22:34:57.165Z] info server listening port 3000
+[2019-06-16T22:34:57.197Z] info mongo connected
+[2019-06-16T22:35:04.969Z] info server listening port 3000
+[2019-06-16T22:35:04.991Z] info mongo connected
+[2019-06-16T22:35:28.208Z] info server listening port 3000
+[2019-06-16T22:35:28.229Z] info mongo connected
+[2019-06-16T22:39:11.443Z] info server listening port 3000
+[2019-06-16T22:39:11.463Z] info mongo connected
+[2019-06-16T22:40:18.494Z] info server listening port 3000
+[2019-06-16T22:40:18.511Z] info mongo connected
+[2019-06-16T22:40:31.135Z] info server listening port 3000
+[2019-06-16T22:40:31.152Z] info mongo connected
+[2019-06-16T22:41:15.380Z] info server listening port 3000
+[2019-06-16T22:41:15.396Z] info mongo connected
+[2019-06-16T22:41:21.038Z] info server listening port 3000
+[2019-06-16T22:41:21.058Z] info mongo connected
+[2019-06-16T22:41:25.448Z] info server listening port 3000
+[2019-06-16T22:41:25.464Z] info mongo connected
+[2019-06-16T22:41:42.886Z] info server listening port 3000
+[2019-06-16T22:41:42.901Z] info mongo connected
+[2019-06-16T22:42:05.497Z] info server listening port 3000
+[2019-06-16T22:42:05.518Z] info mongo connected
+[2019-06-16T22:43:09.455Z] info server listening port 3000
+[2019-06-16T22:43:09.472Z] info mongo connected
+[2019-06-16T22:43:22.282Z] info server listening port 3000
+[2019-06-16T22:43:22.305Z] info mongo connected
+[2019-06-16T22:43:30.191Z] info server listening port 3000
+[2019-06-16T22:43:30.217Z] info mongo connected
+[2019-06-16T22:47:42.410Z] error Input file is missing
+[2019-06-16T22:48:47.726Z] info server listening port 3000
+[2019-06-16T22:48:47.743Z] info mongo connected
+[2019-06-16T22:49:58.595Z] error Input file is missing
+[2019-06-16T22:58:17.644Z] error Input file is missing
