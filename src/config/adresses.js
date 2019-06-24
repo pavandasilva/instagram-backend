@@ -1,13 +1,11 @@
-
-
 const port = 3000;
 const baseurl = `http://localhost:${port}`;
 
 const serverAdress = {
-    port,
-    baseurl
-}
+  port,
+  baseurl
+};
 
 module.exports = {
-    serverAdress
-}
+  serverAdress
+};
